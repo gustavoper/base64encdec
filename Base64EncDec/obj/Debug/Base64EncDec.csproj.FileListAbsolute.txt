@@ -1,0 +1,10 @@
+C:\Users\gusta\RiderProjects\Base64EncDec\Base64EncDec\bin\Debug\Base64EncDec.exe.config
+C:\Users\gusta\RiderProjects\Base64EncDec\Base64EncDec\bin\Debug\Base64EncDec.exe
+C:\Users\gusta\RiderProjects\Base64EncDec\Base64EncDec\bin\Debug\Base64EncDec.pdb
+C:\Users\gusta\RiderProjects\Base64EncDec\Base64EncDec\obj\Debug\Base64EncDec.csproj.AssemblyReference.cache
+C:\Users\gusta\RiderProjects\Base64EncDec\Base64EncDec\obj\Debug\Base64EncDec.Properties.Resources.resources
+C:\Users\gusta\RiderProjects\Base64EncDec\Base64EncDec\obj\Debug\Base64EncDec.csproj.GenerateResource.cache
+C:\Users\gusta\RiderProjects\Base64EncDec\Base64EncDec\obj\Debug\Base64EncDec.csproj.CoreCompileInputs.cache
+C:\Users\gusta\RiderProjects\Base64EncDec\Base64EncDec\obj\Debug\Base64EncDec.exe
+C:\Users\gusta\RiderProjects\Base64EncDec\Base64EncDec\obj\Debug\Base64EncDec.pdb
+C:\Users\gusta\RiderProjects\Base64EncDec\Base64EncDec\obj\Debug\Base64EncDec.Form1.resources
