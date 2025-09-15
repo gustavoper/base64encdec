@@ -11,3 +11,6 @@ The source code is avaliable in case if you have any questions about your info b
 
 
 [base64app-1.0-SNAPSHOT.jar](Java/base64app-1.0-SNAPSHOT.jar) - Java Version (Requires JRE 21+)
+
+
+[base64encdec.sh](/Bash/base64encdec.sh) - Bash + Python Version 
